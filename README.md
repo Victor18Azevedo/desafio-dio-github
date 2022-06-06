@@ -2,7 +2,7 @@
 Repositório criado para desafio da Dio de Github
 
 ## Passo a passo para criar Repositório no Github
-Na aula do desafio foi ilustrado como criar o repositorio no github, segue aqui o passo a passo:
+Na aula do desafio foi ilustrado como criar o repositório no Github, segue aqui o passo a passo:
 1. Com sua conta no Github aberta no navegador, acesse a aba dos seus repositórios;
 ![Página do perfil Github](/img/img-github.png)
 
@@ -20,4 +20,4 @@ Na aula do desafio foi ilustrado como criar o repositorio no github, segue aqui 
 7. Criado o repositório no github, deve-se clonar para uma pasta local seu computador. Para isto, clique sobre o botão *Code* e em seguida copie o endereço HTTPS do repositório;
 ![Copiando HTTPS ](/img/img-copiar-https.png)
 
-8. Com essas ações o repositório está criado e pronto para ser utilizado locamente, para isto é necessário já ter instalado o git no seu computador. Nesse [aquivo](links-uteis.md) é disponibilizado material com informações para ajudar nos próximnos passos.
+8. Com essas ações o repositório está criado e pronto para ser utilizado locamente, para isto é necessário já ter instalado o git no seu computador. Nesse [aquivo](links-uteis.md) é disponibilizado material com informações para ajudar nos próximos passos.
